@@ -1,3 +1,4 @@
+# main file for the arknig bot
 ###################### GLOBAL SETTINGS ##########################
 auto_refill = True #change to true for auto refil
 
